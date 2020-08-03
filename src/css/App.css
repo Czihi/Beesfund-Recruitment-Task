@@ -138,4 +138,22 @@
   .eventGroup{
     margin: 1% 0;
   }
+  .triangleWhite{
+    left: -1px;
+    border-top:  9px solid transparent;
+    border-left:  10px solid white;
+    border-bottom:  10px solid transparent;
+  }
+  .triangle-right0{
+    left: -1px;
+    border-top:  9px solid transparent;
+    border-left:  9px solid #57575f;
+    border-bottom:  9px solid transparent;
+  }
+  .triangle-right1{
+    left: -1px;
+    border-top:  9px solid transparent;
+    border-left:  9px solid #8f9094;
+    border-bottom: 9px solid transparent;
+  }
 }

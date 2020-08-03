@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fe933696-17f7-48d5-90af-75ca5c42acdd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MiddlePanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MiddlePanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1596463223623</updated>
       <workItem from="1596463232042" duration="15971000" />
-      <workItem from="1596482363720" duration="308000" />
+      <workItem from="1596482363720" duration="550000" />
+      <workItem from="1596495058595" duration="364000" />
     </task>
     <task id="LOCAL-00001" summary="Made version without API usage">
       <created>1596473669554</created>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596482496802</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Quick fix for opening event in new window, changed event title to uppercase">
+      <created>1596482716234</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596482716234</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +155,7 @@
     <MESSAGE value="Responsiveness + Comments" />
     <MESSAGE value="Added API" />
     <MESSAGE value="Quick fix for opening event in new window" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick fix for opening event in new window" />
+    <MESSAGE value="Quick fix for opening event in new window, changed event title to uppercase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quick fix for opening event in new window, changed event title to uppercase" />
   </component>
 </project>
