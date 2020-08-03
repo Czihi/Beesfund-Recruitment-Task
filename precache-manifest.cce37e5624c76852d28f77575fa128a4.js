@@ -16,23 +16,23 @@ self.__precacheManifest = [
     "url": "/Beesfund-Recruitment-Task/static/js/runtime~main.ee0fd4d7.js"
   },
   {
-    "revision": "a84f88f2731c5b18b2d4",
-    "url": "/Beesfund-Recruitment-Task/static/js/main.927c4be7.chunk.js"
+    "revision": "1991c32be09b049c9785",
+    "url": "/Beesfund-Recruitment-Task/static/js/main.0e9d9a42.chunk.js"
   },
   {
-    "revision": "8fc53bbbbd9a915f83d4",
-    "url": "/Beesfund-Recruitment-Task/static/js/2.7a4e4e3f.chunk.js"
+    "revision": "54eaa9f4f60317dc28a9",
+    "url": "/Beesfund-Recruitment-Task/static/js/2.ace51cdb.chunk.js"
   },
   {
-    "revision": "a84f88f2731c5b18b2d4",
+    "revision": "1991c32be09b049c9785",
     "url": "/Beesfund-Recruitment-Task/static/css/main.7a9e10a7.chunk.css"
   },
   {
-    "revision": "8fc53bbbbd9a915f83d4",
+    "revision": "54eaa9f4f60317dc28a9",
     "url": "/Beesfund-Recruitment-Task/static/css/2.383b00bf.chunk.css"
   },
   {
-    "revision": "75670cccdc4164e93d5a98e5ea2ad7bb",
+    "revision": "054e6e2df7b804a5491973b9f0e8f5be",
     "url": "/Beesfund-Recruitment-Task/index.html"
   }
 ];

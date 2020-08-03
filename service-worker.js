@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Beesfund-Recruitment-Task/precache-manifest.80cb91e6b3644180513b08cf2a7feada.js"
+  "/Beesfund-Recruitment-Task/precache-manifest.cce37e5624c76852d28f77575fa128a4.js"
 );
 
 workbox.clientsClaim();
