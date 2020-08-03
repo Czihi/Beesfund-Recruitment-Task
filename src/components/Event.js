@@ -13,6 +13,7 @@ const Event = (props) => {
         <MiddlePanel  //section with title of event
             mode={props.mode}
             title={props.title}
+            url={props.url}
         />
         <RightPanel //section with description of event
             mode={props.mode}

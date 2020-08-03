@@ -6,11 +6,8 @@
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Event.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Event.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Events.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Events.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LeftPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LeftPanel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/MiddlePanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MiddlePanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RightPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RightPanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596463223623</updated>
-      <workItem from="1596463232042" duration="11317000" />
+      <workItem from="1596463232042" duration="15121000" />
     </task>
     <task id="LOCAL-00001" summary="Made version without API usage">
       <created>1596473669554</created>
@@ -100,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596473669554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Responsiveness + Comments">
+      <created>1596474863407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596474863407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Made version without API usage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made version without API usage" />
+    <MESSAGE value="Responsiveness + Comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Responsiveness + Comments" />
   </component>
 </project>

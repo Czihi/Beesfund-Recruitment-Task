@@ -1,10 +1,13 @@
 import React from "react";
 import Events from "./Events";
 
-const Main = () => {
+const Main = (props) => {
     return (<div>
         <h3 className="title">WYDARZENIA</h3>
-        <Events/>
+        <Events
+        events={props.events}
+        err={props.err}
+        />
     </div>)
 };
 
