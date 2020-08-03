@@ -5,16 +5,16 @@ import RightPanel from "./RightPanel";
 
 const Event = (props) => {
     return (<div className="eventGroup">
-        <LeftPanel
+        <LeftPanel   //section with date and type of event
             mode={props.mode}
             date={props.date}
             image={props.image}
         />
-        <MiddlePanel
+        <MiddlePanel  //section with title of event
             mode={props.mode}
             title={props.title}
         />
-        <RightPanel
+        <RightPanel //section with description of event
             mode={props.mode}
             desc={props.desc}
         />
