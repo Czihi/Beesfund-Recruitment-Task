@@ -1,0 +1,136 @@
+.title{
+  margin-top: 1%;
+  margin-bottom: 3%;
+  text-align: center;
+  font-weight: 700;
+  font-size: calc(1.6vw + 1.6vw);
+}
+.leftPanel0{
+  flex: 1;
+  background-color: #57575f;
+  color: white;
+}
+.leftPanel1{
+  flex: 1;
+  background-color: #8f9094;
+  color: white;
+}
+.eventGroup{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1% 5%
+}
+.dateGroup{
+  margin: 5%;
+  text-align: center;
+}
+.date{
+  font-weight: 700;
+  font-size: calc(1vw + 1vh);
+  display: inline;
+  vertical-align: middle;
+  margin-left: 5%;
+}
+.calendarImage{
+  vertical-align: middle;
+  width: 8%;
+}
+.eventImage{
+  width:60%;
+  height: auto;
+  margin-right:  20%;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
+.middlePanel0{
+  position: relative;
+  color: #57575f;
+  flex: 1;
+  border-bottom: 5px solid #57575f;
+}
+.middlePanel1{
+  position: relative;
+  color: #8f9094;
+  flex: 1;
+  border-bottom: 5px solid #8f9094;
+}
+.eventTitle{
+  margin: 5% 10%;
+  font-size: calc(1.2vw + 1.2vh);
+  font-weight: 800;
+}
+.registerButton0{
+  position: absolute;
+  left: 10%;
+  top: 65%;
+  display: inline;
+  padding: 5px 15px;
+  font-size: calc(1.2vw + 1.2vh);
+  font-weight: 800;
+  background-color: #57575f;
+  color: white;
+  border-radius: 0.7vw;
+  border: 0;
+}
+.registerButton1{
+  position: absolute;
+  left: 10%;
+  top: 65%;
+  display: inline;
+  padding: 5px 15px;
+  font-size: calc(1.2vw + 1.2vh);
+  font-weight: 800;
+  background-color: #8f9094;
+  color: white;
+  border-radius: 0.7vw;
+  border: 0;
+}
+
+
+.triangle-right0 {
+  position: absolute;
+  left: 0;
+  top: 65%;
+  width: 0;
+  height: 0;
+  border-top:  calc(1.2vw + 1.2vh) solid transparent;
+  border-left:  calc(1.2vw + 1.2vh) solid #57575f;
+  border-bottom:  calc(1.2vw + 1.2vh) solid transparent;
+}
+.triangle-right1 {
+  position: absolute;
+  left: 0;
+  top: 65%;
+  width: 0;
+  height: 0;
+  border-top:  calc(1.2vw + 1.2vh) solid transparent;
+  border-left:  calc(1.2vw + 1.2vh) solid #8f9094;
+  border-bottom:  calc(1.2vw + 1.2vh) solid transparent;
+}
+.rightPanel0{
+  position: relative;
+  background-color: #57575f;
+  flex: 1.3;
+}
+.rightPanel1{
+  position: relative;
+  background-color: #8f9094;
+  flex: 1.3;
+}
+.triangleWhite{
+  position: absolute;
+  left: 0;
+  top: 25%;
+  width: 0;
+  height: 0;
+  border-top:  calc(1.2vw + 1.2vh) solid transparent;
+  border-left:  calc(1.2vw + 1.2vh) solid white;
+  border-bottom:  calc(1.2vw + 1.2vh) solid transparent;
+}
+.description{
+  margin: 5% 10%;
+  color: white;
+  font-weight: 600;
+  font-size: calc(0.7vw + 0.7vh);
+}
+
