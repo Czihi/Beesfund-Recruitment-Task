@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe933696-17f7-48d5-90af-75ca5c42acdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/Events.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Events.js" afterDir="false" />
-    </list>
+    <list default="true" id="fe933696-17f7-48d5-90af-75ca5c42acdd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596463223623</updated>
-      <workItem from="1596463232042" duration="15243000" />
+      <workItem from="1596463232042" duration="15971000" />
     </task>
     <task id="LOCAL-00001" summary="Made version without API usage">
       <created>1596473669554</created>
@@ -106,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596478713293</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added API">
+      <created>1596478768721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596478768721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
