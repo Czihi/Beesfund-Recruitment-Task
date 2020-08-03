@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe933696-17f7-48d5-90af-75ca5c42acdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Event.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Event.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Events.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Events.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MiddlePanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MiddlePanel.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596463223623</updated>
-      <workItem from="1596463232042" duration="15121000" />
+      <workItem from="1596463232042" duration="15243000" />
     </task>
     <task id="LOCAL-00001" summary="Made version without API usage">
       <created>1596473669554</created>
@@ -104,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596474863407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added API">
+      <created>1596478713293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596478713293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +127,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Made version without API usage" />
     <MESSAGE value="Responsiveness + Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responsiveness + Comments" />
+    <MESSAGE value="Added API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added API" />
   </component>
 </project>
