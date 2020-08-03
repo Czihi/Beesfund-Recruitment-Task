@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Beesfund-Recruitment-Task/static/js/runtime~main.ee0fd4d7.js"
   },
   {
-    "revision": "0134143043ce741b37b6",
+    "revision": "186b686fb1b3b367e107",
     "url": "/Beesfund-Recruitment-Task/static/js/main.d4fcf4ca.chunk.js"
   },
   {
@@ -24,15 +24,15 @@ self.__precacheManifest = [
     "url": "/Beesfund-Recruitment-Task/static/js/2.ace51cdb.chunk.js"
   },
   {
-    "revision": "0134143043ce741b37b6",
-    "url": "/Beesfund-Recruitment-Task/static/css/main.7a9e10a7.chunk.css"
+    "revision": "186b686fb1b3b367e107",
+    "url": "/Beesfund-Recruitment-Task/static/css/main.72c380c0.chunk.css"
   },
   {
     "revision": "54eaa9f4f60317dc28a9",
     "url": "/Beesfund-Recruitment-Task/static/css/2.383b00bf.chunk.css"
   },
   {
-    "revision": "7d05b555d2877b8c6ce38f85d1004e69",
+    "revision": "b8e8db1fccaf8b1f0bce7a18aa392c02",
     "url": "/Beesfund-Recruitment-Task/index.html"
   }
 ];
